@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
+title: Notes
 date: 2021-03-18
 ---
 
-# Posts
+# My Notes

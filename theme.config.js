@@ -1,10 +1,32 @@
 const YEAR = new Date().getFullYear()
 
 export default {
+  readMore: 'Expand →',
+  postFooter: (
+    <>
+      <hr />
+      <p>
+        This site has no analytics. For any feedback / comments / suggestions or
+        to just have a cup of coffee, you can{' '}
+        <a href="https://twitter.com/VedantLohbare/" target="_blank">
+          DM me here
+        </a>
+        .{' '}
+      </p>
+    </>
+  ),
+  navs: [
+    {
+      url: 'https://github.com/shuding/nextra',
+      name: 'Nextra'
+    }
+  ],
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> © Your Name.
-      <a href="/feed.xml">RSS</a>
+      <time>{YEAR}</time> © Vedant Lohbare.
+      <a href="https://twitter.com/VedantLohbare/" target="_blank">
+        Twitter
+      </a>
       <style jsx>{`
         a {
           float: right;
