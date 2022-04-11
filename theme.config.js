@@ -15,12 +15,6 @@ export default {
       </p>
     </>
   ),
-  navs: [
-    {
-      url: 'https://github.com/shuding/nextra',
-      name: 'Nextra'
-    }
-  ],
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © Vedant Lohbare.
