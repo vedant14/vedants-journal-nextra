@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SuperDMs",
+    "state": "Active",
+    "color": "#77DD77",
+    "link": "https://www.superdms.app/",
+    "whatItIs": "Tool to automate stuff on twitter",
+    "highlights": [
+      "First internet money :)",
+      "First team project too, made good friends :)",
+      "Proper saas tool where I coded along with a proper experienced dev, so I am proud of this one"
+    ]
+  },
+  {
+    "name": "Better Product Manager",
+    "state": "Active",
+    "color": "#77DD77",
+    "link": "https://www.betterproductmanager.com/",
+    "whatItIs": "Initially created to fight my own imposter syndrome. Better Product Manager has been featured on Product Hunt and gets 1000+ visitors each month",
+    "highlights": [
+      "Loved working on this one, was my first project which got over a 5000 views",
+      "Voted for side-project product of the year at product hunt."
+    ]
+  },
+  {
+    "name": "How many BMWs",
+    "state": "Active",
+    "color": "#77DD77",
+    "link": "https://www.howmanybmws.com/",
+    "whatItIs": "Created a fun application to show the trend of rising tech salaries in India, using a BMW bikes.",
+    "highlights": [
+      "Still managed to be top #5 product of the day",
+      "A few of the people I follow on twitter retweeted this, so that made my day :)"
+    ]
+  },
+  {
+    "name": "Particypants",
+    "state": "Not active",
+    "color": "#ccccc4",
+    "link": "https://www.particypants.com/",
+    "whatItIs": "Slack application that helps teams take meeting notes.",
+    "highlights": [
+      "First tech intensive product, played with Slack APIs and learned a lot about them in the process",
+      "Conducted usability tests on the MVP with ~10 teams, the product was not sticky enough so like a good product manager, decided to kill it :("
+    ]
+  }
+]

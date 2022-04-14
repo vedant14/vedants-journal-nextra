@@ -2,6 +2,7 @@ const YEAR = new Date().getFullYear()
 
 export default {
   readMore: 'Expand →',
+  titleSuffix: ' | Vedant Lohbare',
   postFooter: (
     <>
       <hr />
