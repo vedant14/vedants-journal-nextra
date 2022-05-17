@@ -63,3 +63,16 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+.mt-5 {
+  margin-top: 5rem;
+}
+.mb-5 {
+  margin-bottom: 8rem;
+}
+
+.sec-text {
+  font-size: 18px;
+}
+.hero-text {
+  font-size: 24px;
+}
