@@ -24,8 +24,8 @@
   },
   {
     "name": "How many BMWs",
-    "state": "Active",
-    "color": "#77DD77",
+    "state": "Not active",
+    "color": "#ccccc4",
     "link": "https://www.howmanybmws.com/",
     "whatItIs": "Created a fun application to show the trend of rising tech salaries in India, using a BMW bikes.",
     "highlights": [
