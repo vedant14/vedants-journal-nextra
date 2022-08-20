@@ -1,8 +1,18 @@
 [
   {
-    "name": "SuperDMs",
+    "name": "Tiny Tea Kettle",
     "state": "Active",
     "color": "#77DD77",
+    "link": "https://www.tinyteakettle.com/",
+    "whatItIs": "Tea company",
+    "highlights": [
+      "Nothing to add as of now. Dad got pretty excited about this one though."
+    ]
+  },
+  {
+    "name": "SuperDMs",
+    "state": "Not active :(",
+    "color": "#ccccc4",
     "link": "https://www.superdms.app/",
     "whatItIs": "Tool to automate stuff on twitter",
     "highlights": [
