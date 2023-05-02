@@ -23,8 +23,8 @@
   },
   {
     "name": "Better Product Manager",
-    "state": "Active",
-    "color": "#77DD77",
+    "state": "in-active",
+    "color": "#ccccc4",
     "link": "https://www.betterproductmanager.com/",
     "whatItIs": "Initially created to fight my own imposter syndrome. Better Product Manager has been featured on Product Hunt and gets 1000+ visitors each month",
     "highlights": [
@@ -35,7 +35,7 @@
   {
     "name": "How many BMWs",
     "state": "Not updated",
-    "color": "#ccccc4",
+    "color": "#77DD77",
     "link": "https://howmanybmws.netlify.app/",
     "whatItIs": "Created a fun application to show the trend of rising tech salaries in India, using a BMW bikes.",
     "highlights": [
