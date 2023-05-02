@@ -34,9 +34,9 @@
   },
   {
     "name": "How many BMWs",
-    "state": "Not active",
+    "state": "Not updated",
     "color": "#ccccc4",
-    "link": "https://www.howmanybmws.com/",
+    "link": "https://howmanybmws.netlify.app/",
     "whatItIs": "Created a fun application to show the trend of rising tech salaries in India, using a BMW bikes.",
     "highlights": [
       "#5 product of the day at Product Hunt",
