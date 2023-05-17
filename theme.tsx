@@ -1,4 +1,5 @@
 import type { NextraThemeLayoutProps } from 'nextra'
+import React from 'react'
  
 export default function Layout({ children }: NextraThemeLayoutProps) {
   return (
